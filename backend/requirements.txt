@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+redis>=4.6
+openai
+numpy
+httpx
+pinecone-client
